@@ -12,11 +12,11 @@ pip2 install requests
 
 pip2 install mechanize 
 
-git clone 
+git clone https://github.com/arvel-noob/meta
 
 cd meta
 
-python crafb-ijo.py
+python cracfb.py
 
 # Free🥰❤️ kasih bintang
 # Free🥰😎 follow me
