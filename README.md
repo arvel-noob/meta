@@ -1,8 +1,6 @@
 # meta
-   -Klik +wa saya jika anda
-   ingin bertanya"
-   -Klik jika wa saya gak on
-   Silahkah chat fb saya
+   - Klik WA saya jika anda butuh
+   - Klik FB saya jika anda butuh
 ## social media
 * [<img alt="ProfAcc Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Facebook</b>](https://www.facebook.com/profile.php?id=100079899961820)<br>
 * [<img alt="ProfAcc Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b>WhatsApp</b>](https://wa.me/6283843614174?text=Asalamualaikum+Mas)<br>
