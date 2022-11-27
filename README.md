@@ -1,7 +1,7 @@
 # meta
-   -Ketik +wa saya jika anda
+   -Klik +wa saya jika anda
    ingin bertanya"
-   -Ketik jika wa saya gak on
+   -Klik jika wa saya gak on
    Silahkah chat fb saya
 ## social media
 * [<img alt="ProfAcc Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Facebook</b>](https://www.facebook.com/profile.php?id=100079899961820)<br>
